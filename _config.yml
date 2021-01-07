@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Honggyu Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am master degree student in Korea Advanced Institute of Science and Technology(KAIST)."
+  location         : "Daejeon"
+  email            : "honggyuchoi@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
